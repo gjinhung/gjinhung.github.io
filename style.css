@@ -148,3 +148,7 @@ header.p-section {
   padding: 0 0.25em;
   bottom: 0.2em;
 }
+
+.col-sm-42{
+  width: 50%;
+}
